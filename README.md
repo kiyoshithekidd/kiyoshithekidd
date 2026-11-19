@@ -2,7 +2,7 @@
 
 📍 *Derby, NY (Buffalo Area)*
 
-By day, I’m a Salesforce Product Manager bridging the gap between complex business requirements and scalable technical solutions. By night, I’m a builder, 3DS modder, and digital craftsman. I believe in maximizing utility—whether that means enabling a dev team with the latest LLMs, writing native C++ tools for legacy hardware, or gamifying my own life with an ecosystem of AI agents.
+By day, I’m a Salesforce Product Manager bridging the gap between complex business requirements and scalable technical solutions. By night, I’m a builder, 3DS modder, and digital craftsman. I believe in maximizing utility—whether that means enabling a dev team with the latest LLMs, shipping Electron desktop apps and Reddit Devvit Web games, writing native C homebrew for legacy hardware, or gamifying my own life with an ecosystem of AI agents.
 
 ---
 
@@ -20,9 +20,11 @@ Off the clock, my personal sandbox runs almost exclusively on the **Google AI ec
 * **The DM Assistant:** Automates world-building, NPC generation, and campaign management for my tabletop sessions.
 
 ### 🛠️ The Builder's Workshop: Coded Apps & Hardware
-Outside of prompt engineering, I build standalone utility tools and push the limits of legacy hardware:
+Outside of prompt engineering, I build standalone apps, games, and native tools for legacy hardware:
+* **[College of Keys](https://github.com/kiyoshithekidd/college-of-keys)** (`v1.4.0`): A D&D 5E Bard LitRPG piano, multi-instrument, and spell-singing karaoke desktop app built with Electron, Web MIDI, Tone.js, and a Python ML pipeline (`yt-dlp` + Spotify `basic-pitch`). Features a 60 FPS "Spell Highway" with Wait Mode & 100ms chord forgiveness, 6-stem AI play-along mixer, Grand-Staff sheet music + OMR import, 3D d20 Dice Tray, Bard Colleges, and a 4-Act Story Campaign.
+* **[Lute Roll](https://github.com/kiyoshithekidd/LuteRoll)** (`r/luteroll`): A Reddit-native daily melody game built for the **Reddit Game of the Day Hackathon** using Devvit Web, React, TypeScript, Hono, Redis, Three.js, Tailwind CSS, and Web Audio API. Features a 3D d20 Tavern Tray, deterministic daily melodies, 12 synthesized keyboard voices, 48 Tavern Relics, 15 Bard Title tiers, and automatic `r/luteroll` flair & leaderboard integration.
+* **[Tomodachi Life 3DS Save Editor](https://github.com/kiyoshithekidd/TomodachiLife_3DS_SaveEditior)** (`v0.9.2`): A shipped, open-source native C homebrew app for Nintendo 3DS (`.3dsx` & `.cia`) supporting Cartridge, SD Digital (`US`/`EU`/`JP`/`KR`), and Checkpoint saves. Includes full bottom-screen touch UI, native 3DS software keyboard, Mii `.tlmii`/`.tlamii` export/import with CRC16-XMODEM repair, Relationships, Travelers, Concert Hall, and automatic save backups.
 * **resume.ai (The Career Catalyst):** A standalone web app built to help friends navigate the job market. Coded in VSCode using Claude, powered by Gemini APIs for web scraping, and hosted on Streamlit. It analyzes job fit, tailors resumes to scraped job postings, and rewrites LinkedIn profiles to match.
-* **Native C++ Development:** Currently using AI to assist in writing a custom, native C++ save editor for the Nintendo 3DS game *Tomodachi Life*.
 * **Handheld Modding:** Deep-diving into 3DS XL custom firmware and optimizing ROM hacks like *Pokémon Unbound* and *Gaia*.
 
 ### 🍱 AFK (Away From Keyboard)
